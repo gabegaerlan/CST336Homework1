@@ -1,0 +1,102 @@
+body{
+    background-color:lightblue;
+}
+
+header,nav{
+    text-align:center;
+}
+
+header{
+     font-family:'Pacifico', cursive;
+     color:blue;
+}
+
+#intro{
+    text-align:center;
+}
+
+#image{
+    float:left;
+}
+
+nav a:hover{
+    border-bottom:2px white solid;
+    font-size:1.3em;
+    transition:.6s;
+}
+
+p{
+    text-align:left;
+}
+
+header{
+    text-shadow: 2px 2px black;
+}
+
+nav a{
+    padding:15px;
+    padding-bottom:4px;
+    text-decoration: none;
+    color:blue;
+}
+
+footer{
+    clear:left;
+    font-size:small;
+    text-align:center;
+}
+
+table{
+    margin:0px auto;
+}
+
+td{
+    padding-right:10px;
+    font-size:1.3em;
+}
+
+td strong{
+    color:blue;
+}
+
+#table-header{
+    background-color:gray;
+}
+
+.table-row{
+    background-color:white;
+}
+
+ul{
+    text-align:left;
+    padding-left:200px;
+}
+
+.bh strong{
+    font-family:'Pacifico',cursive;
+    text-align:center;
+}
+
+image{
+    float:left;
+}
+
+.benefits{
+    color:aqua;
+    text-align:left;
+}
+ 
+intro strong{
+    color:black;
+    text-align:center;
+}
+
+#services{
+    border-color:black;
+    
+}
+
+#csumblogo{
+    opacity:0.5;
+}
+
